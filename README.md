@@ -7,14 +7,11 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
-    <title>GabrielHen</title>
 </head>
 <body>
     <h1 class="title">Gabriel Hen</h1>
     <div class="me">
         <h4>Sou Gabriel Henrique Modesto, ou GabrielHenn, estou cursando o Ensino Médio e pretendo me formar em Engenharia de Software!</h4>
-    </div>
-
     </div>
 </body>
 </html>
