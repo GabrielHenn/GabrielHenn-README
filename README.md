@@ -11,7 +11,7 @@
 <body>
     <h1 class="title">Gabriel Hen</h1>
     <div class="me">
-        <h4>Sou Gabriel Henrique Modesto, ou GabrielHenn, estou cursando o Ensino Médio e pretendo me formar em Engenharia de Software!</h4>
+        <h3>Sou Gabriel Henrique Modesto, ou GabrielHenn, estou cursando o Ensino Médio e pretendo me formar em Engenharia de Software!</h3>
     </div>
 </body>
 </html>
