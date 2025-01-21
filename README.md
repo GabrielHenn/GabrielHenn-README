@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1 class="title">Gabriel Hen</h1>
+    <h1 class="title">Gabriel Henn</h1>
     <div class="me">
         <h3>Sou Gabriel Henrique Modesto, ou GabrielHenn, estou cursando o Ensino Médio e pretendo me formar em Engenharia de Software!</h3>
     </div>
