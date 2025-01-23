@@ -7,7 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
   </head>
   <body>
-    <img src="eu.png" alt="Gabriel Henrique Modesto" />
+    <img style="border-radius: 10px; width: 100px;" src="eu.png" alt="Gabriel Henrique Modesto" />
     <h1>Gabriel Henn</h1>
     <h2>Quem sou eu?</h2>
     <p>
