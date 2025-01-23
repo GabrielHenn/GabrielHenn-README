@@ -18,7 +18,7 @@
     <p>
       Estou aqui para aprender mais sobre programação e desenvolvimento de
       sites, pois é uma área que me interessa muito e que eu pretendo seguir
-      carreira. Iniciando em HTML e CSS com os vídeos do canal Curso em Vídeo,
+      carreira. Aprendendo HTML5 e CSS3 com os vídeos do canal <a href="https://www.youtube.com/c/CursoemVídeo"> Curso em Vídeo</a>,
       do professor Gustavo Guanabara.
     </p>
       
